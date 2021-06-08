@@ -1,0 +1,31 @@
+.container .jumbotron  h1{
+    color: crimson!important;
+}
+.container .nav-scroller .nav a{
+  color:yellow!important;
+
+}
+.container .jumbotron a{
+  color: brown!important;
+}
+div.blog-post:nth-child(2) {
+  background-color: chartreuse!important;
+}
+
+div.blog-post:nth-last-child(2) {
+    background-color: red!important;
+  }
+
+  .blog-sidebar ol.list-unstyled li a{
+      color: red!important;
+  }
+  .blog-post:nth-child(3) p.blog-post-meta a{
+    
+    color: red!important;
+  }
+  .blog-footer p:nth-last-child(1) a{
+      color: red!important;
+  }
+  footer{
+      background-color: royalblue!important;
+  }
